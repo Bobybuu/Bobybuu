@@ -64,7 +64,7 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: [your.email@example.com](mailto:chrixclout@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/chrispin-odiwuor-383283267)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/chrispin-odiwuor-383283267)
 - 🐦 Twitter: [twitter.com/yourhandle](https://x.com/BobChrix?t=aBoimMZyur94oZymgO_Lng&s=08)
 - 🌍 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
