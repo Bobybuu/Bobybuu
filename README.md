@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Graduating Software Engineer** from ALX.
+- 🎓 **Graduate Software Engineer** from ALX.
 - 💡 Passionate about **DevOps, AWS, Cloud Computing, and Project Management**.
 - 🛠️ Proficient in **C, C++, Python, JavaScript, MERN, Flask, Django**.
 - 🔨 **Lead Developer** on a Messaging App project.
