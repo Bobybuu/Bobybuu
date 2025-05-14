@@ -48,16 +48,7 @@
 - Implements AI-driven budgeting assistance.
 - Developed auto-blocking of transactions to betting platforms.
 
-[🔗 View Project](#) | [📜 Read More](#)
-
----
-
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrispin&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrispin&theme=dark" alt="GitHub Streak" />
-</div>
+[🔗 View Project](#) | [📜 Read More](#
 
 ---
 
