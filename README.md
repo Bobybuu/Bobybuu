@@ -8,7 +8,7 @@
 
 ##  About Me
 
-- 🎓 **Lead Software Engineer** at Implimenta: [Implimenta](wwww.implimenta.tech).
+- 🎓 **Lead Software Engineer** at [Implimenta](www.implimenta.tech).
 - 💡 Passionate about **DevOps, AWS, Cloud Computing, and Project Management**.
 - 🛠️ Proficient in **C, C++, Python, JavaScript, MERN, Flask, Django**.
 - 🔨 **Lead Developer** on a Messaging App project.
