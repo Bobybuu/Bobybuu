@@ -1,12 +1,12 @@
 <div align="center">
   <h1>👋 Hi, I'm Chrispin</h1>
-  <p><strong>Software Engineer | DevOps Enthusiast | AWS & Cloud Practitioner | Project Manager</strong></p>
+  <p><strong>Software Engineer | DevOps Expert | AWS Solution Architect | Project Manager</strong></p>
   <p>Passionate about building scalable software solutions, automating infrastructure, and leading development teams to success.</p>
 </div>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 **Graduate Software Engineer** from ALX.
 - 💡 Passionate about **DevOps, AWS, Cloud Computing, and Project Management**.
