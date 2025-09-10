@@ -11,9 +11,6 @@
 - 🎓 **Lead Software Engineer** at [Implimenta](https://www.implimenta.tech/).
 - 💡 Passionate about **DevOps, AWS, Cloud Computing, and Project Management**.
 - 🛠️ Proficient in **C, C++, Python, JavaScript, MERN, Flask, Django**.
-- 🔨 **Lead Developer** on a Messaging App project.
-- 🌍 Based in **Kenya**, actively seeking **full-time opportunities** in the tech industry.
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -43,5 +40,5 @@
 ---
 
 <div align="center">
-  <h3>Let's build something amazing together! 🚀</h3>
+  <h3>Let's build something amazing together! </h3>
 </div>
