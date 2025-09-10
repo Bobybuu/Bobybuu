@@ -31,25 +31,6 @@
 </div>
 
 ---
-
-## 📌 Featured Projects
-
-### 📨 Messaging App (Lead Developer)
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Socket.io`
-- Developed a real-time messaging app with end-to-end encryption.
-- Integrated WebSocket communication for seamless chat experience.
-- Led a team of developers to implement scalable microservices.
-
-[🔗 View Project](#) | [📜 Read More](#)
-
-### 📊 AI-Based Financial Monitoring System
-**Tech Stack:** `Python` `Flask` `PostgreSQL` `Machine Learning`
-- Monitors transactions to detect gambling-related expenses.
-- Implements AI-driven budgeting assistance.
-- Developed auto-blocking of transactions to betting platforms.
-
-[🔗 View Project](#) | [📜 Read More](#
-
 ---
 
 ## 📫 How to Reach Me
